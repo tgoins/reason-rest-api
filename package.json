@@ -1,0 +1,25 @@
+{
+  "name": "rest-api",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "nodemon src/Main.bs.js",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w",
+    "clean": "bsb -clean-world"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^4.0.5",
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "passport": "^0.4.0",
+    "socketio": "^1.0.0"
+  }
+}
