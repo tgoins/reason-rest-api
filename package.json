@@ -18,6 +18,8 @@
   },
   "dependencies": {
     "body-parser": "^1.18.3",
+    "bs-express": "^0.8.0",
+    "bs-json": "^1.0.1",
     "express": "^4.16.3",
     "passport": "^0.4.0",
     "socketio": "^1.0.0"

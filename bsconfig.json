@@ -12,7 +12,10 @@
     "in-source": true
   },
   "suffix": ".bs.js",
-  "bs-dependencies": [],
+  "bs-dependencies": [
+    "bs-express",
+    "bs-json"
+  ],
   "warnings": {
     "error": "+101"
   },

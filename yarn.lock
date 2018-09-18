@@ -204,6 +204,16 @@ braces@^2.3.0, braces@^2.3.1:
     split-string "^3.0.2"
     to-regex "^3.0.1"
 
+bs-express@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/bs-express/-/bs-express-0.8.0.tgz#4d239272d221fed4762e6b306edca85c50bbc381"
+  dependencies:
+    express "^4.16.3"
+
+bs-json@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/bs-json/-/bs-json-1.0.1.tgz#0e25ed5ba7164ab131e494669b755da9844cc37e"
+
 bs-platform@^4.0.5:
   version "4.0.5"
   resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-4.0.5.tgz#d4fd9bbdd11765af5b75110a5655065ece05eed6"
